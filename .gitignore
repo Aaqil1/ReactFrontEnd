@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Build output
+dist/
+build/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.tmp
+
+# Binary files
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Env files
+.env
+.env.*.local
+
+# Mac system files
+.DS_Store
